@@ -1,2 +1,2 @@
 FROM alpine
-echo "this is dockerfile"
+RUN echo "this is dockerfile"
